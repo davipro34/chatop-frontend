@@ -1,6 +1,7 @@
 # Estate
+Portal application for connecting tenants/owners for the property management company ChâTop.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.0.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.3.
 
 ## Start the project
 
